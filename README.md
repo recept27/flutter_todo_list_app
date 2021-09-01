@@ -12,9 +12,7 @@ In the command terminal, run the following commands:
     $ flutter run
 
 ## 📷 Screenshots
-![Mockup 1](https://github.com/BigMarco254/FlutterTodo/raw/master/mockups/mockup-1.jpeg)
-![Mockup 2](https://github.com/BigMarco254/FlutterTodo/raw/master/mockups/mockup-2.jpeg)
-![Mockup 3](https://github.com/BigMarco254/FlutterTodo/raw/master/mockups/mockup-3.jpeg)
+
 
 ## 🤔 Issues:
  * Hero transitions are on top of appbar and other widgets
