@@ -1,14 +1,22 @@
 import 'package:flutter/material.dart';
-import 'package:todo/pages/Home.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:what_todo/screens/homepage.dart';
 
-void main() => runApp(App());
+void main() {
+  runApp(MyApp());
+}
 
-class App extends StatelessWidget {
+class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter TODO',
-      home: HomePage(),
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        textTheme: GoogleFonts.nunitoSansTextTheme(
+          Theme.of(context).textTheme,
+        ),
+      ),
+      home: Homepage(),
     );
   }
 }
