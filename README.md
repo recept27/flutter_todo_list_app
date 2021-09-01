@@ -18,7 +18,7 @@ In the command terminal, run the following commands:
  * Hero transitions are on top of appbar and other widgets
 
 ## ☕️ Like What You See?
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/BigMarco254)
+
 
 ## 📚 Resources
 [Mockups](https://shotsnapp.com)
